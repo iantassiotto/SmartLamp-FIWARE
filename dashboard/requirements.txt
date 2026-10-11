@@ -1,0 +1,6 @@
+# Permite instalar todas as bibliotecas no Python com um único comando 
+# pip install -r requirements.txt
+
+dash
+plotly
+requests
